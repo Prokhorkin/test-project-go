@@ -1,0 +1,1 @@
+rm animal.txt career.txt dev.txt celebrity.txt explicit.txt fashion.txt food.txt history.txt money.txt movie.txt music.txt political.txt religion.txt science.txt sport.txt travel.txt
